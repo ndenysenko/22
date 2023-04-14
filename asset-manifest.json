@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6829328e.css",
+    "main.js": "./static/js/main.f01b4960.js",
+    "static/media/characters.webp": "./static/media/characters.4cd994fcdec672986d6a.webp",
+    "static/media/spaceAdventure.jpeg": "./static/media/spaceAdventure.025ce77cf4354f351d08.jpeg",
+    "static/media/soccerUltimate.jpeg": "./static/media/soccerUltimate.cf45a8a7e8d2930899c3.jpeg",
+    "static/media/cardBg.png": "./static/media/cardBg.186896bb08290de46e3f.png",
+    "static/media/theFruits.jpeg": "./static/media/theFruits.0f34a1f1891330a00835.jpeg",
+    "static/media/keno.jpeg": "./static/media/keno.6883e2a2979e789f5061.jpeg",
+    "static/media/ramsesTreasure.jpeg": "./static/media/ramsesTreasure.f62ce57a368d5f672e1d.jpeg",
+    "static/media/arabianNights.jpeg": "./static/media/arabianNights.8177a46e220159bae125.jpeg",
+    "static/media/highOrLow.jpeg": "./static/media/highOrLow.4935014419b63a247a51.jpeg",
+    "static/media/mrChicken.jpeg": "./static/media/mrChicken.bec63bcf404881db96e4.jpeg",
+    "index.html": "./index.html",
+    "main.6829328e.css.map": "./static/css/main.6829328e.css.map",
+    "main.f01b4960.js.map": "./static/js/main.f01b4960.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6829328e.css",
+    "static/js/main.f01b4960.js"
+  ]
+}
